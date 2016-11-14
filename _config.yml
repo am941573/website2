@@ -1,0 +1,28 @@
+# Site settings
+title: Bill Glover
+header-img: img/home-bg.jpg
+email: bill@billglover.com
+copyright_name: Procrastes Press
+description: "Programming and Prose"
+baseurl: ""
+url: "http://billglover.com"
+twitter_username: 
+github_username:  
+facebook_username:
+email_username:  bill@billglover.com
+linkedin_username: billglover
+phone_number: "1-806-433-0866"
+map_address: "2300 N. Western, Amarillo, TX 79124"
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+google_tracking_id: UA-1601268-12
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
