@@ -1,22 +1,22 @@
 # Site settings
-title: Bill Glover
+title: Alejandro Magallanes
 header-img: img/home-bg.jpg
-email: bill@billglover.com
+email: alejandromagallanesd@gmail.com
 copyright_name: Procrastes Press
-description: "Programming and Prose"
+description: "The dreamer"
 baseurl: ""
-url: "http://billglover.com"
-twitter_username: 
+url: "https://am941573.github.io/website2/"
+twitter_username: @magallanesalej
 github_username:  
-facebook_username:
+facebook_username: magallanesalej
 email_username:  bill@billglover.com
-linkedin_username: billglover
-phone_number: "1-806-433-0866"
+linkedin_username: magallanesalej
+phone_number: "1-806-676-5366"
 map_address: "2300 N. Western, Amarillo, TX 79124"
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
-google_tracking_id: UA-1601268-12
+#google_tracking_id: UA-1601268-12
 
 # Build settings
 markdown: kramdown
